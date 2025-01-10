@@ -1,6 +1,6 @@
 # 📊 Análise e Visualização de Dados com Python  
 
-Este repositório contém um projeto de análise de dados desenvolvido utilizando **Python** e suas bibliotecas, com foco na exploração de variáveis como **sexo**, **cor** e **salário**,** gênero**. A análise inclui a mensuração de correlações, tratamento de valores faltantes e projeções baseadas nos dados amostrais para uma possível população maior.  
+Este repositório contém um projeto de análise de dados desenvolvido utilizando **Python** e suas bibliotecas, com foco na exploração de variáveis como **sexo**, **cor** e **salário**. A análise inclui a mensuração de correlações, tratamento de valores faltantes e projeções baseadas nos dados amostrais para uma possível população maior.  
 
 ## 🔍 Objetivo do Projeto  
 Demonstrar como utilizar ferramentas de análise de dados em Python para:  
